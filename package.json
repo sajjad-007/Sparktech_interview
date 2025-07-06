@@ -1,0 +1,19 @@
+{
+  "name": "sparktech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "is-glob": "^4.0.3",
+    "mongoose": "^8.16.1",
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "sajjad",
+  "license": "ISC",
+  "description": ""
+}
